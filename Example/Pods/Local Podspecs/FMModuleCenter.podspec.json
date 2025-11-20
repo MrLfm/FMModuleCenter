@@ -1,0 +1,22 @@
+{
+  "name": "FMModuleCenter",
+  "version": "0.1.0",
+  "summary": "A short description of FMModuleCenter.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/MrLfm/FMModuleCenter",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "MrLfm": "lfm_1992@126.com"
+  },
+  "source": {
+    "git": "https://github.com/MrLfm/FMModuleCenter.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "FMModuleCenter/Classes/**/*"
+}
