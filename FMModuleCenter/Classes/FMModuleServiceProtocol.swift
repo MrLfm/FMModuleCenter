@@ -18,3 +18,9 @@ public protocol FMModuleBServiceProtocol {
     func getBViewController() -> UIViewController
     // 其他服务...
 }
+
+/// 组件C提供的服务
+public protocol FMModuleCServiceProtocol {
+    func getCViewController() -> UIViewController
+    // 其他服务...
+}
