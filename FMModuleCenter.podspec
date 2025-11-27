@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'FMModuleCenter'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = '组件中心。提供组件注册功能，声明所有组件提供的服务，供组件间调用。'
 
   s.homepage         = 'https://github.com/MrLfm/FMModuleCenter'
